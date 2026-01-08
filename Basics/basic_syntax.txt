@@ -1,0 +1,97 @@
+1️. Header Files
+#include <iostream>
+#include <cmath>
+
+
+iostream → input/output (cin, cout)
+
+cmath → math functions (sqrt, pow, etc.)
+
+2️.Namespace
+using namespace std;
+
+
+Avoids writing std::cout, std::cin every time.
+
+3️.Function
+double calculateForce(double mass, double acceleration)
+
+
+Demonstrates functions
+
+Uses real mechanical formula: F = m × a
+
+4. Data Types
+int, float, double, char, bool
+
+
+Used for:
+
+counting
+
+measurements
+
+logical conditions
+
+5️.Input & Output
+cin >> acceleration;
+cout << "Force is high";
+
+
+Used to interact with the user.
+
+6. Operators
+
+Arithmetic: + - * /
+
+Relational: > < ==
+
+Assignment: =
+
+Example:
+
+double power = force * acceleration;
+
+7️.Conditional Statements
+if (force > 50) { ... } else { ... }
+
+
+Used for decision making in engineering logic.
+
+8️. Loops
+
+for loop → fixed repetition
+
+while loop → condition-based repetition
+
+Very important for simulations and iterations.
+
+9️. Arrays
+double stresses[3];
+
+
+Stores multiple values (e.g., stress at different points).
+
+🔟 Pointers
+double* ptr = &force;
+
+
+Used for:
+
+memory access
+
+performance
+
+advanced engineering software
+
+1️1. Math Functions
+sqrt(force);
+
+
+Useful for formulas and calculations.
+
+1️2. main() Function
+int main() { ... return 0; }
+
+
+Program execution always starts here.
