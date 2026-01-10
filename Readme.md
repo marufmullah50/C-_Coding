@@ -38,4 +38,4 @@ This repository is a **work in progress** and will be updated as I learn and bui
 
 ## Author
 Md. Maruf Mullah  
-Mechanical Engineering
+Md. Maruf Mullah Mechanical Engineer |  ML & Deep Learning Enthusiast
